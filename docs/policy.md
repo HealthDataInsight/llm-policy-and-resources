@@ -12,6 +12,7 @@ Any inappropriate or unethical use of LLMs is strictly prohibited, including pro
 
 3. **Data Privacy & Compliance with Health Regulations**
 
+<!--alex ignore special-->
 All use of LLMs must adhere to strict data privacy standards, particularly those relating to "special categories of personal data" under GDPR.
 Under no circumstances should patient-specific data be used without explicit consent and appropriate anonymization/de-identification measures.
 
