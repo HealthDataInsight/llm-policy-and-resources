@@ -2,7 +2,7 @@
 
 1. **Purpose and Scope**
 
-This policy provides guidelines for using large language models (LLMs) such as OpenAI's GPT-4 within HDI.
+This policy provides guidelines for using large language models (LLMs) such as OpenAI's ChatGPT or Anthropic's Claude within HDI.
 Given our focus on healthcare, this policy also emphasizes the critical importance of patient privacy, data security, and regulatory compliance. It applies to all employees, contractors, and partners who utilize LLMs as part of their role.
 
 2. **Responsible Use**
