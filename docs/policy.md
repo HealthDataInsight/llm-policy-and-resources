@@ -1,9 +1,11 @@
 # DRAFT Large Language Models (LLM) Usage Policy for Health Data Insight (HDI)
 
-1. **Purpose and Scope**
+1. **Context, Purpose and Scope**
 
-This policy provides guidelines for using large language models (LLMs) such as OpenAI's ChatGPT or Anthropic's Claude within HDI.
-Given our focus on healthcare, this policy also emphasizes the critical importance of patient privacy, data security, and regulatory compliance. It applies to all employees, contractors, and partners who utilize LLMs as part of their role.
+Large language models (LLMs) such such as OpenAI's ChatGPT or Anthropic's Claude have considerable potential to improve all aspects of healthcare and deliver benefits for patients and staff.  However, they inherently create risks.  Some of the information and interpretations they provide may not be accurate and if used without appropriate controls they can compromise patient confidentiality, data security or put at risk commercially sensitive information.  
+
+This policy outlines a framework for the use of LLMs that applies to all employees, contractors, and partners who use LLMs as part of their roles in HDI.  It also serves to define the scope of HDI's LLM Health Guardian Project - that is creating a secure and safe online space for use by our own teams and others working in sensitive healthcare environments.
+
 
 2. **Responsible Use**
 
@@ -35,7 +37,7 @@ Adherence to this policy is mandatory, and non-compliance may lead to disciplina
 7. **Oversight and Accountability**
 
 Our AI Ethics Committee will oversee the use of LLMs within the company, ensuring policy compliance and performing regular audits.
-You should report any concerns about LLM use directly to this committee.
+You should report any concerns about LLM use directly to your line manager or this committee.
 
 8. **Security**
 
