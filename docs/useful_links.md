@@ -30,5 +30,6 @@
 
 * [Midjourney](https://www.midjourney.com/) image generative AI.
 * OpenAI's [DALL·E 2](https://labs.openai.com) image generative AI.
+* [Common Sense Machine](https://www.csm.ai) (CSM) video or image to 3D mesh.
 
 **NOTE:** LLMs and other tools listed here are for reference purposes only and does not mean HDI endorses their use for commercial purposes.
