@@ -22,12 +22,14 @@
 
 # AI Code Assistants
 
+* [Tabnine](https://www.tabnine.com) AI assistant that speeds up delivery and keeps your code safe
 * Google Codey
 * [GitHub Copilot](https://github.com/features/copilot/) Your AI pair programmer
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) Build applications faster and more securely with your AI coding companion
 
 ## Other AI Tools
 
+* Adobe [Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [Midjourney](https://www.midjourney.com/) image generative AI.
 * OpenAI's [DALL·E 2](https://labs.openai.com) image generative AI.
 * [Common Sense Machine](https://www.csm.ai) (CSM) video or image to 3D mesh.
